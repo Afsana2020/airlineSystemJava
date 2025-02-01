@@ -58,7 +58,7 @@ The Payment Page asks the user to provide card details, including the card numbe
 
 ![8](https://github.com/user-attachments/assets/97eda2d0-499e-4f28-a796-2f48bdbe4842)
 
-the Show Details Page is where the booking confirmation and flight details are displayed. Here's a button that redirects to modify page
+The Show Details Page is where the booking confirmation and flight details are displayed. Here's a button that redirects to modify page.
 
 ### 9) Modify Page:
 
@@ -66,7 +66,9 @@ the Show Details Page is where the booking confirmation and flight details are d
 
 The Modify Page allows users to request to update their booking details. It first verifies the passport ID and Gmail address for accuracy. Then, the user is prompted to input any modifications they wish to make. If they want to change something, they can click the "Request Modification" button to send a real-time email to the admin through the application. If no changes are needed, users can select "No Change". Once a modification request is submitted, a formatted email is automatically sent to the admin's Gmail account for further processing.
 
+
 ![10](https://github.com/user-attachments/assets/26f8d55e-a681-4d08-9210-3e56f646c366)
+
 
 ### 10) About us:
 
