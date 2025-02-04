@@ -72,7 +72,7 @@ The Modify Page allows users to request to update their booking details. It firs
 
 ### 10) About us:
 
-![l](https://github.com/user-attachments/assets/88042661-77e5-4d36-ab0d-d2aad6f68ed0)
+![11](https://github.com/user-attachments/assets/c201ceb2-5410-4fe5-bd12-502d68758347)
 
 The About Us Page provides contact information about the admins who developed the application
 
