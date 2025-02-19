@@ -1,0 +1,5 @@
+- Please add the JAR files provided in the 'lib' folder to the       project's dependencies in any IDE you are using
+
+- Start running from Main.java
+
+- Thank you!

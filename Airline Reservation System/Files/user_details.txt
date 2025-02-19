@@ -1,0 +1,44 @@
+UserId: Afsana2
+Passenger Name:  Afsana Hena
+Passport ID: 12345
+Trip Type: Connecting ($799.00)
+Destination: London,United Kingdom
+Flight Name: Emirates
+Departure Date: 1 February 2024
+Departure Time: 2:00 PM
+Fare Type: First Class ($4999.00)
+Seat Type: Window Seat
+----------------------------------------
+UserId: Afsana2
+Passenger Name: Afsana H
+Passport ID: 12345
+Trip Type: Connecting ($799.00)
+Destination: London,United Kingdom
+Flight Name: Emirates
+Departure Date: 4 February 2024
+Departure Time: 1:05  
+Fare Type: Business Class ($3999.00)
+Seat Type: Aisle Seat
+----------------------------------------
+UserId: Afsana2
+Passenger Name: Hena
+Passport ID: 12345
+Trip Type: Direct ($399.00)
+Destination: New York City,USA
+Flight Name: Emirates
+Departure Date: 2 January 2025
+Departure Time: 2:10 AM
+Fare Type: First Class ($4999.00)
+Seat Type: Window Seat
+----------------------------------------
+UserId: Afsana2
+Passenger Name: Supty
+Passport ID: 12345
+Trip Type: Direct ($399.00)
+Destination: New York City,USA
+Flight Name: Emirates
+Departure Date: 20 February 2025
+Departure Time: 4:10 PM
+Fare Type: First Class ($4999.00)
+Seat Type: Window Seat
+----------------------------------------
